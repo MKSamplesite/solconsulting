@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Seasons of Life Consulting</copyright>
+    <lastBuildDate>Wed, 23 Oct 2019 16:31:33 +0530</lastBuildDate>
     
 	<atom:link href="https://mksamplesite.github.io/solconsulting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Men&#39;s Health History</title>
+      <link>https://mksamplesite.github.io/solconsulting/menform/</link>
+      <pubDate>Wed, 23 Oct 2019 16:31:33 +0530</pubDate>
+      
+      <guid>https://mksamplesite.github.io/solconsulting/menform/</guid>
+      <description>All of your information will remain confidential between you and the Health Coach.</description>
+    </item>
+    
+    <item>
+      <title>Women&#39;s Health History</title>
+      <link>https://mksamplesite.github.io/solconsulting/womenform/</link>
+      <pubDate>Wed, 23 Oct 2019 16:31:33 +0530</pubDate>
+      
+      <guid>https://mksamplesite.github.io/solconsulting/womenform/</guid>
+      <description>All of your information will remain confidential between you and the Health Coach.</description>
+    </item>
     
   </channel>
 </rss>
