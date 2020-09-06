@@ -59,5 +59,23 @@ I studied with the world&amp;rsquo;s top health and wellness experts including:
       <description>All of your information will remain confidential between you and the Health Coach.</description>
     </item>
     
+    <item>
+      <title>Blog</title>
+      <link>https://mksamplesite.github.io/solconsulting/blog/</link>
+      <pubDate>Wed, 23 Oct 2019 16:31:33 +0530</pubDate>
+      
+      <guid>https://mksamplesite.github.io/solconsulting/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://mksamplesite.github.io/solconsulting/post/</link>
+      <pubDate>Wed, 23 Oct 2019 16:31:33 +0530</pubDate>
+      
+      <guid>https://mksamplesite.github.io/solconsulting/post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
