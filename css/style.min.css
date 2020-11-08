@@ -184,6 +184,18 @@ a:hover {
   margin-bottom: 10px;
   box-shadow: 0px 24px 48px -12px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease; }
+  
+.thumb-menu-lic img {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  box-shadow: 0px 24px 48px -12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease; }
+.badge-issuer {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	
+}
 
 .heading-section {
   margin-bottom: 30px; }
@@ -497,6 +509,8 @@ a:hover {
   .hero-carousel .owl-item img {
     height: 600px; }
   .thumb-menu img {
+    height: 90px; }
+  .thumb-menu-lic img {
     height: 90px; }
   .img-2 {
     height: 500px; } }
